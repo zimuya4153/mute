@@ -2,5 +2,7 @@
     "name": "${modName}",
     "entry": "${modFile}",
     "version": "${modVersion}",
-    "type": "native"
+    "type": "native",
+    "author": "小小的子沐呀 QQ:1756150362",
+    "description": "一个简单的禁言插件"
 }

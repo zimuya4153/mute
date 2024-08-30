@@ -1,0 +1,19 @@
+{
+    "commands": {
+        "description": "禁言",
+        "mutePlayer": {
+            "ban": "§6%%1 §e禁言成功 §a解禁时间§b:§d%%2",
+            "unban": "§6%%1 §e解除禁言成功"
+        },
+        "muteAll": {
+            "ban": "§6全体禁言成功 §a解禁时间§b:§d%%1",
+            "unban": "§6全体解除成功"
+        }
+    },
+    "time.permanent": "§c永久",
+    "mute.tip": {
+        "title": "§g禁言提示",
+        "player": "§e您已被禁言。§6解禁时间§6:§d{0}",
+        "all": "§e管理员开启了全体禁言。§6解禁时间§6:§d{0}"
+    }
+}
